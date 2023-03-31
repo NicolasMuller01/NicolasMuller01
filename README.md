@@ -11,8 +11,8 @@
 </p>
 
 <h3 align="left">Projects that i love ❤: </h3>
-<p><a href="https://exo-planetas-api.vercel.app/" target="blank"><img align="center"</a></p>
-<p><a href="https://github.com/NicolasMuller01/SistemaDeVentasFerreteriaLujan" target="blank"><img align="center"</a></p>
+<p>Exoplanetas Api (JS,Sass,html)<a href="https://exo-planetas-api.vercel.app/" target="blank"><img align="center"</a></p>
+<p>Sistema de gestion (Java, Sql)<a href="https://github.com/NicolasMuller01/SistemaDeVentasFerreteriaLujan" target="blank"><img align="center"</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
