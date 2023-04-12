@@ -1,9 +1,7 @@
 <h1 align="center">🫡 Hi I'm Nicolas Muller</h1>
 <h3 align="center">Student and developer</h3>
 
-- Right now I Am loking for learn **Spring, React, Aws**
-
-- Find more about Me on Linkedin [https://tinyurl.com/2dtgg8mq](https://tinyurl.com/2dtgg8mq)
+- Right now I Am loking for learn **Spring, React, Aws, AI, EVERYTHING!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
