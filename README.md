@@ -25,7 +25,6 @@
 <ul>
 	<li>Spanish: <b>native</li>
 	<li>English: <b>intermediate</li>
-	<li>Portuguese: <b>basic </li>
 </ul>  
 
 <hr>
