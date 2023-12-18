@@ -1,7 +1,7 @@
 <h2 align="center">🫡 Hi, I'm Nicolas Müller</h2>  
 <h3 align="center">Software Developer and Student</h3>  
 
-<p align="center">My goals right now are to become more proficient in <b>Spring and Aws</b> but I'm also passionate about <b>Blockchain and AI.</b></p>
+<p align="center">My goals right now are to become more proficient in <b>Fullstack world</b> but I'm also passionate about <b>Blockchain and AI.</b></p>
 <hr>
 <BR>
 
